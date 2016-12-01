@@ -1,0 +1,25 @@
+{
+  "name": "siebogjs-agent",
+  "version": "1.0.0",
+  "description": "\"AgentManager is a module which handles lifecycle of agents.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiebogJS/AgentManager.git"
+  },
+  "keywords": [
+    "agent"
+  ],
+  "author": "Aleksandar Lukić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiebogJS/AgentManager/issues"
+  },
+  "homepage": "https://github.com/SiebogJS/AgentManager#readme",
+  "dependencies": {
+    "siebogjs-common" : "file:./lib/Common"
+  }
+}
